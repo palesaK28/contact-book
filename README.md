@@ -9,7 +9,6 @@ A contact management app to add, view, edit, and delete contacts.
 
 ## Tech Stack
 - HTML
-- CSS
 - JavaScript
 
 ## How to Run
